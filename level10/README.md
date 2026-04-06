@@ -7,5 +7,5 @@
     -- user base64 -- decode command to decode 
 
 ## Command 
- cat data.txt | base64 --decode
+ cat data.txt | base64 --decode 
 
